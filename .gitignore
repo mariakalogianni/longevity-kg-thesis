@@ -1,0 +1,12 @@
+# .gitignore
+
+# Env files
+*.env
+config.yml
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
