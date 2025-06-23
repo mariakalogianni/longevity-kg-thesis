@@ -1,13 +1,14 @@
-bm25s
-colbert-ai 
-huggingface_hub
-llm2vec
-nltk
+# Core dependencies
 numpy
 pandas
-PyTDC
 torch
 torch_geometric
 torchmetrics
+neo4j-driver
 tqdm
+PyTDC
+pyyaml
+
+# Optional: transformer-based embeddings
 transformers
+huggingface_hub
